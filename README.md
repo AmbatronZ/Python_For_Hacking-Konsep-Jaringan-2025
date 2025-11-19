@@ -38,5 +38,11 @@ Repository ini adalah tugas materi Python for hacking Praktikum Konsep Jaringan
 
 # Contoh Output #
 1. UdpServer.py
-
+   
+ <img width="670" height="131" alt="image" src="https://github.com/user-attachments/assets/67e21a79-0e70-469b-bce2-5b7597747427" />
+ 
 2. UdpSocket.py
+
+<img width="701" height="100" alt="image" src="https://github.com/user-attachments/assets/859cfbc4-aa28-4ce7-8e5d-ca468dd77718" />
+
+---
